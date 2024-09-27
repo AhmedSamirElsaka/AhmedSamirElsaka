@@ -4,7 +4,7 @@
 			 src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F7E911&width=435&lines=Hi+there!+I%27m+Ahmed+Samir+Elsaka...+">
 </p>
 
-<h2 align="center">Software Engineer | Android Developer | React Native Developer💻</h2>
+<h2 align="center">Software Engineer | React Native Developer | Android Developer </h2>
 
 
 
