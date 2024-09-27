@@ -4,7 +4,7 @@
 			 src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F7E911&width=435&lines=Hi+there!+I%27m+Ahmed+Samir+Elsaka...+">
 </p>
 
-<h2 align="center">Software Engineer | React Native Developer | Android Developer </h2>
+<h2 align="center">Software Engineer | Android Developer | React Native Developer💻</h2>
 
 
 
@@ -21,6 +21,11 @@ I am committed to continuous learning and always eager to expand my knowledge in
 Let's connect and create something amazing together!
 
 
+## 👨‍💻 About Me:
+- 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1JKkfoIDIUifnXFO3CuZ9GZDQ0jfgDbxI/view)  
+- 💬 **Ask me about**: React Native , Android Native , Java , JavaScript , TypeScript
+- 📫 **Reach me at**: [ahmedsamirelsakadev@gmail.com](mailto:ahmedsamirelsakadev@gmail.com) 
+- ⚡ **Fun fact**: I'm passionate about learning new things!  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/devahmedsamir)
