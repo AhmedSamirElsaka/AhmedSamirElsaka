@@ -63,6 +63,12 @@ Let's connect and create something amazing together!
 <be>
 
 # 📊 GitHub Stats:
+
+*NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!*
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AhmedSamirElsaka&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ![](https://github-readme-stats.vercel.app/api?username=AhmedSamirElsaka&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedSamirElsaka&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSamirElsaka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -73,7 +79,6 @@ Let's connect and create something amazing together!
 ---
 [![](https://visitcount.itsvg.in/api?id=AhmedSamirElsaka&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
