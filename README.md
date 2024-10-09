@@ -22,8 +22,8 @@ Let's connect and create something amazing together!
 
 
 ## 👨‍💻 About Me:
-- 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1JKkfoIDIUifnXFO3CuZ9GZDQ0jfgDbxI/view)  
-- 💬 **Ask me about**: React Native , Android Native , Java , JavaScript , TypeScript
+- 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1GniRr0zsu7kh74iArAoFF359d0KeHxMP/view)  
+- 💬 **Ask me about**: ReactNative, Android Native, Java, JavaScript, TypeScript
 - 📫 **Reach me at**: [ahmedsamirelsakadev@gmail.com](mailto:ahmedsamirelsakadev@gmail.com) 
 - ⚡ **Fun fact**: I'm passionate about learning new things!  
 
