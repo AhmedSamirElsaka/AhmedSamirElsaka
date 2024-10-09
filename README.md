@@ -1,88 +1,122 @@
-
 <p align="center">
-		<img alt="Ahmed's Welcome Message"
-			 src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F7E911&width=435&lines=Hi+there!+I%27m+Ahmed+Samir+Elsaka...+">
+	<img alt="Ahmed's Welcome Message"
+			 src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F7E911&width=500&lines=Hi+there!+I%27m+Ahmed+Samir+Elsaka...;Software+Engineer+%7C+Android+Developer+%7C+React+Native+Developer;">
 </p>
 
-<h2 align="center">Software Engineer | Android Developer | React Native Developer💻</h2>
+<h2 align="center">Software Engineer | React Native Developer | Android Developer 💻</h2>
+
+Hello! I'm **Ahmed Samir Elsaka**, a passionate Software Engineer specializing in **Android** and **React Native** development. My journey in tech has been driven by curiosity and a love for building efficient, user-friendly mobile applications. Whether it's Android apps with **Kotlin** or **Java**, or cross-platform solutions with **React Native**, I bring an eye for clean architecture and a knack for problem-solving.
+
+---
+
+## 🚀 **Projects**  
+### 📱 **Mobile Applications**  
+- **Elsaka Electric E-Commerce App** [GitHub](https://github.com/AhmedSamirElsaka/Elsaka-Electric-React-Native)  
+  Developed an **e-commerce mobile app** to sell electrical products. Integrated **Redux**, **NativeWind**, and **Appwrite** for smooth shopping experiences and user authentication.  
+  Technologies: `React Native`, `TypeScript`, `Redux`, `Stripe`, `Lottie`
+
+- **Aora Video-Sharing App** [GitHub](https://github.com/AhmedSamirElsaka/Aora-React-Native)  
+  A real-time video-sharing mobile app using **Appwrite** for backend services with animations and user uploads.  
+  Technologies: `React Native`, `Expo`, `Lottie`, `Appwrite`
+
+- **Uber Clone** [GitHub](https://github.com/AhmedSamirElsaka/Uber-Clone-React-Native)  
+  A transportation app mimicking **Uber's** core functionalities with **map integration** and **Google APIs**.  
+  Technologies: `React Native`, `Google Places`, `Redux`, `Maps`
+
+- **Deliveroo Clone** [GitHub](https://github.com/AhmedSamirElsaka/Deliveroo-Clone)  
+  A **food delivery app clone** that allows users to browse restaurants and track orders.  
+  Technologies: `React Native`, `Google Direction API`, `Redux`, `Lottie`, `Maps`
+
+- **To-Do List App** [GitHub](https://github.com/AhmedSamirElsaka/Todo-List-Project-React-Native)  
+  A **task management app** with advanced features like data persistence and state management.  
+  Technologies: `React Native`, `Redux`, `Realm`, `Axios`, `TypeScript`
+
+- **TalkBook (PDF Reader + TTS)** [GitHub](https://github.com/AhmedSamirElsaka/TalkBook)  
+  An Android app that converts **PDFs to audio** using **text-to-speech** technology, with secure user authentication.  
+  Technologies: `Kotlin`, `MVVM`, `Retrofit`, `Room`, `TTS`
+
+- **Music Player** [GitHub](https://github.com/AhmedSamirElsaka/Music-Player)  
+  A local **music player app** with audio playback, playlist creation, and media management.  
+  Technologies: `Kotlin`, `ExoPlayer`, `Coroutines`, `Flow`, `Navigation Component`
+
+- **Aflammy (Movies App)** [GitHub](https://github.com/AhmedSamirElsaka/AflammyApp)  
+  An Android app providing a library of movies and TV shows using **TMDB API**.  
+  Technologies: `Kotlin`, `Retrofit`, `Room`, `MVVM`, `Coroutines`
+
+- **Mohtadon (Islamic App)** [GitHub](https://github.com/mohtadon-team/mohtadon)  
+  A comprehensive Islamic app offering Quran reading, prayer times, Islamic radio, and more.  
+  Technologies: `Kotlin`, `Coroutines`, `Retrofit`, `Room`, `MVVM`, `ExoPlayer`
+
+- **News App** [GitHub](https://github.com/AhmedSamirElsaka/News-App-MVI-Android)  
+  A **news app** built using **Jetpack Compose** that allows users to browse articles from various categories and countries.  
+  Technologies: `Kotlin`, `Jetpack Compose`, `MVI`, `Retrofit`, `Coroutines`
+
+- **Number Guessing Game** [GitHub](https://github.com/AhmedSamirElsaka/React-Native-simple-game)  
+  A React Native interactive game where players guess a number, featuring **multi-screen navigation** and efficient state management.  
+  Technologies: `React Native`, `JavaScript`, `Redux`
+
+- **Meals App** [GitHub](https://github.com/AhmedSamirElsaka/Meals-App-Using-Redux)  
+  An app displaying a list of meals, allowing users to filter, view details, and save favorites.  
+  Technologies: `React Native`, `Redux`, `Local Storage`
+
+- **Expense Tracker App** [GitHub](https://github.com/AhmedSamirElsaka/Expenses-App-Using-Firebase)  
+  A personal expense tracker app where users can manage expenses over time.  
+  Technologies: `React Native`, `Context API`, `Firebase`, `Axios`
 
 
+---
 
+## 🛠️ **Technical Skills**
+- **Languages**: Java, Kotlin, JavaScript, TypeScript, HTML, CSS  
+- **Mobile Frameworks**: React Native, Android SDK, Jetpack Compose, Expo  
+- **Libraries & Tools**: Dagger Hilt, Redux, Room Database, Retrofit, Firebase, Stripe, Appwrite  
+- **Architectures**: MVVM, Clean Architecture, SOLID Principles  
+- **Dev Tools**: Git, GitHub, Android Studio, Firebase, VS Code, Tailwind CSS  
+- **Other**: REST APIs, OOP, Data Structures, Algorithms, Design Patterns, JSON
 
+---
 
-Hello there! I'm Ahmed Samir Elsaka, a passionate Software Engineer with a strong focus on Android and React Native development. My journey in the tech world has been fueled by a deep love for crafting intuitive and efficient mobile applications. I thrive on exploring new technologies, solving complex problems, and building user-friendly solutions.
+---
 
-I have a robust foundation in Android development, where I've leveraged Kotlin and Java to create dynamic applications. My experience includes working with modern architectures like MVVM and Clean Architecture, and I'm well-versed in tools like Dagger Hilt, Retrofit, and Room Database. My projects showcase my ability to implement advanced features such as secure user authentication, text-to-speech integration, and comprehensive media playback.
-
-In addition to my Android expertise, I've also delved into React Native, where I've developed clones of popular apps like Uber and Deliveroo. My React Native projects demonstrate my proficiency with Redux, Context API, Realm Database, and seamless integrations with APIs like Google Places and Maps.
-
-I am committed to continuous learning and always eager to expand my knowledge in the ever-evolving field of software development. Whether it's enhancing my understanding of design patterns or experimenting with new frameworks, I approach every challenge with enthusiasm and a growth mindset.
-
-Let's connect and create something amazing together!
-
-
-## 👨‍💻 About Me:
-- 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1GniRr0zsu7kh74iArAoFF359d0KeHxMP/view)  
-- 💬 **Ask me about**: ReactNative, Android Native, Java, JavaScript, TypeScript
-- 📫 **Reach me at**: [ahmedsamirelsakadev@gmail.com](mailto:ahmedsamirelsakadev@gmail.com) 
-- ⚡ **Fun fact**: I'm passionate about learning new things!  
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/devahmedsamir)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedsamirelsaka/) 
-
-
-# 💻 Languages and Tools:
+## 💻 Languages and Tools:
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,appwrite,cpp,clion,discord,eclipse,figma,firebase,git,github,java,jest,kotlin,notion,postman,pycharm,redux,regex,sqlite,tailwind,ts,vscode,)
 
-<br>
+---
 
-## 🌟 Soft Skills
+## 🧠 **Soft Skills**
+- **Problem-Solving**: Excellent at breaking down complex problems and creating scalable solutions.  
+- **Teamwork**: Proven experience working in cross-functional teams, mentoring junior developers.  
+- **Innovation**: Always exploring new tools and techniques to stay ahead in software development.  
+- **Time Management**: Skilled at juggling multiple projects and meeting deadlines in fast-paced environments.  
+- **Communication**: Adept at conveying technical insights clearly to diverse audiences.  
+- **Continuous Learning**: I thrive in environments where I can keep learning and pushing the boundaries.
 
-### 🎯 Problem-Solving & Critical Thinking
-- Proficient in **breaking down complex problems** and designing efficient, scalable solutions.
+---
 
-### 🧑‍🤝‍🧑 Teamwork & Collaboration
-- Experience working in **cross-functional teams**.
-- Strong **collaboration and communication** skills with both technical and non-technical stakeholders.
-
-### 💡 Creativity & Innovation
-- **Innovative thinker** with a passion for exploring new technologies and solving real-world problems through AI and data science.
-
-### 📅 Time Management & Organization
-- Ability to manage multiple projects simultaneously, **prioritizing tasks** and meeting tight deadlines in fast-paced environments.
-
-### 🎙️ Communication & Presentation
-- Skilled at conveying technical insights to diverse audiences, making complex data **accessible and actionable**.
-- Proficient in **presenting data-driven findings** clearly and persuasively.
-
-### 📈 Continuous Learning
-- A mindset of **continuous learning** with an interest in staying updated with the latest trends in AI, machine learning, and data science.
-
-
-<be>
-
-# 📊 GitHub Stats:
+## 📊 **GitHub Stats**
 
 *NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!*
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AhmedSamirElsaka&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-![](https://github-readme-stats.vercel.app/api?username=AhmedSamirElsaka&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedSamirElsaka&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSamirElsaka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedSamirElsaka&theme=dark&show_icons=true)](https://github.com/AhmedSamirElsaka)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AhmedSamirElsaka&theme=dark)](https://github.com/AhmedSamirElsaka)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSamirElsaka&layout=compact&theme=dark)](https://github.com/AhmedSamirElsaka)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AhmedSamirElsaka&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AhmedSamirElsaka&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🌐 **Social Links**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedsamirelsaka)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/devahmedsamir)
 
+---
 
+## 📬 **Contact**
+Feel free to reach out at:  
+- 📧 [ahmedsamirelsakadev@gmail.com](mailto:ahmedsamirelsakadev@gmail.com)  
+- 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1GniRr0zsu7kh74iArAoFF359d0KeHxMP/view)  
 
-
-[![](https://raw.githubusercontent.com/Ahmed-Samir-Elsaka/Theme/master/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Ahmed-Samir-Elsaka/Theme/master/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Ahmed-Samir-Elsaka/Theme/master/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Ahmed-Samir-Elsaka/Theme/master/profile-summary-card-output/dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Ahmed-Samir-Elsaka/Theme/master/profile-summary-card-output/dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+---
