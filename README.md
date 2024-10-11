@@ -4,6 +4,8 @@
 </p>
 
 <h2 align="center">Software Engineer | React Native Developer | Android Developer 💻</h2>
+<h2 align="center"><a href="https://drive.google.com/file/d/1GniRr0zsu7kh74iArAoFF359d0KeHxMP/view">Resume</a></h1>
+
 
 Hello! I'm **Ahmed Samir Elsaka**, a passionate Software Engineer specializing in **Android** and **React Native** development. My journey in tech has been driven by curiosity and a love for building efficient, user-friendly mobile applications. Whether it's Android apps with **Kotlin** or **Java**, or cross-platform solutions with **React Native**, I bring an eye for clean architecture and a knack for problem-solving.
 
