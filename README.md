@@ -73,7 +73,7 @@ Hello! I'm **Ahmed Samir Elsaka**, a passionate Software Engineer specializing i
 - **Mobile Frameworks**: React Native, Android SDK, Jetpack Compose, Expo  
 - **Libraries & Tools**: Dagger Hilt, Redux, Room Database, Retrofit, Firebase, Stripe, Appwrite  
 - **Architectures**: MVVM, Clean Architecture, SOLID Principles  
-- **Dev Tools**: Git, GitHub, Android Studio, Firebase, VS Code, Tailwind CSS  
+- **Dev Tools**: Git, GitHub, Android Studio, Firebase, VS Code, Tailwind CSS, Bootstrap 
 - **Other**: REST APIs, OOP, Data Structures, Algorithms, Design Patterns, JSON
 
 ---
