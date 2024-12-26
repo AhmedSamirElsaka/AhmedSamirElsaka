@@ -81,7 +81,7 @@ Hello! I'm **Ahmed Samir Elsaka**, a passionate Software Engineer specializing i
 ---
 
 ## 💻 Languages and Tools:
-![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,appwrite,cpp,clion,discord,eclipse,figma,firebase,git,github,java,jest,kotlin,notion,postman,pycharm,redux,regex,sqlite,tailwind,ts,vscode,)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,appwrite,cpp,clion,discord,eclipse,figma,firebase,git,github,java,jest,kotlin,notion,postman,pycharm,redux,regex,sqlite,tailwind,ts,vscode,bootstrap,PHP,wordpress)
 
 ---
 
