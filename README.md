@@ -15,7 +15,7 @@ Hello! I'm **Ahmed Samir Elsaka**, a passionate Software Engineer specializing i
 ### 📱 **Mobile Applications**  
 - **Ootlah App**
   A travel and booking platform allowing users to explore and book experiences seamlessly.  
-  Key Features: User authentication, wishlist management, booking system, real-time search, third-party API integrations.
+  Key Features: User authentication, wishlist management, booking system, real-time search, third-party API integrations.                                                                                                            
   Technologies: `React Native`, `TypeScript`, `Redux`, `React Navigation`, `Axios`, `NativeWind`.
   
 - **Elsaka Electric E-Commerce App** [GitHub](https://github.com/AhmedSamirElsaka/Elsaka-Electric-React-Native)  
