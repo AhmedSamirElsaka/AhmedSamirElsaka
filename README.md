@@ -1,6 +1,6 @@
 <p align="center">
 	<img alt="Ahmed's Welcome Message"
-			 src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F7E911&width=500&lines=Hi+there!+I%27m+Ahmed+Samir+Elsaka...;Software+Engineer+%7C+Android+Developer+%7C+React+Native+Developer;">
+			 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E911&width=435&lines=Hi+there!+I'm+Ahmed+Samir+Elsaka...;Software+Engineer+%7C+React+Native+Developer+%7C+Native+Android+Developer;">
 </p>
 
 <h2 align="center">Software Engineer | React Native Developer | Android Developer 💻</h2>
