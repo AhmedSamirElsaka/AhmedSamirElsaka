@@ -7,7 +7,7 @@
 <h2 align="center"><a href="https://drive.google.com/file/d/1MFLeuKgWMNDdJPI6bEjca4ejs0OmgEbs/view?usp=sharing">Resume</a></h1>
 
 
-Hello! I'm **Ahmed Samir Elsaka**, a passionate Software Engineer specializing in **Android** and **React Native** development. My journey in tech has been driven by curiosity and a love for building efficient, user-friendly mobile applications. Whether it's Android apps with **Kotlin** or **Java**, or cross-platform solutions with **React Native**, I bring an eye for clean architecture and a knack for problem-solving.
+Hello! I'm **Ahmed Samir Elsaka**, a passionate Software Engineer specializing in **React Native** and **Android Native** development. My journey in tech has been driven by curiosity and a love for building efficient, user-friendly mobile applications. Whether it's cross-platform solutions with **React Native**, or  Android apps with **Kotlin** or **Java**, I bring an eye for clean architecture and a knack for problem-solving.
 
 ---
 
