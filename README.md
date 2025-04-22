@@ -15,7 +15,17 @@ Hello! I'm **Ahmed Samir Elsaka**, a passionate Software Engineer specializing i
 ### 📱 **Mobile Applications**  
 - **Ootlah App**                                                                                       
   A travel and booking platform allowing users to explore and book experiences seamlessly.  
-  Key Features: User authentication, wishlist management, booking system, real-time search, third-party API integrations.                                                                                                            
+  Key Features: User authentication, wishlist management, booking system, real-time search, third-party API integrations.                                                                                           
+  Technologies: `React Native`, `TypeScript`, `Redux`, `React Navigation`, `Axios`, `NativeWind`.
+
+- **Makeen Eg**                                                                                        
+  ▪ Contributed to Makeen EG, a multi-vendor e-commerce application.                                                                                                    
+  ▪ Developed the categories screen, improving user navigation and accessibility.                                                                                                    
+  ▪ Enhanced the home screen UI/UX for a better shopping experience.                                                                                                    
+  ▪ Implemented the search function, enabling users to find products efficiently.                                                                                                    
+  ▪ Developed the orders function, allowing seamless order tracking and management.                                                                                                    
+  ▪ Improved login and signup functionality, ensuring a smoother authentication process.                                                                                                    
+  ▪ Resolved bugs and fixed critical errors, making the app more stable and fully functional.                                                                                         
   Technologies: `React Native`, `TypeScript`, `Redux`, `React Navigation`, `Axios`, `NativeWind`.
   
 - **Elsaka Electric E-Commerce App** [GitHub](https://github.com/AhmedSamirElsaka/Elsaka-Electric-React-Native)  
