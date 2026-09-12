@@ -1,122 +1,139 @@
 <p align="center">
-  <img alt="Ahmed's Welcome Message"
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2DB5AF&width=520&lines=Hi%2C+I'm+Ahmed+Samir+Elsaka;React+Native+Engineer+%7C+MENA+mobile+apps;TypeScript+%7C+RTL+%7C+Production+apps" />
+	<img alt="Ahmed's Welcome Message"
+			 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E911&width=435&lines=Hi+there!+I'm+Ahmed+Samir+Elsaka...;Software+Engineer+%7C+React+Native+Developer+%7C+Native+Android+Developer;">
 </p>
 
-<h2 align="center">Software Engineer · React Native Developer</h2>
+<h2 align="center">Software Engineer | React Native Developer | Android Developer 💻</h2>
+<h2 align="center"><a href="https://drive.google.com/file/d/1d5nArIwkULXW3HXMQd_7Ne_2bfkaFFAt/view?usp=sharing">Resume</a></h1>
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1MFLeuKgWMNDdJPI6bEjca4ejs0OmgEbs/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-PDF-0C7A75?style=for-the-badge" alt="Resume" /></a>
-  <a href="https://www.linkedin.com/in/ahmedsamirelsaka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ahmedsamirelsakadev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Cairo%2C%20Egypt-1C1917?style=for-the-badge" alt="Location" />
-</p>
+
+Hello! I'm **Ahmed Samir Elsaka**, a passionate Software Engineer specializing in **React Native** and **Android Native** development. My journey in tech has been driven by curiosity and a love for building efficient, user-friendly mobile applications. Whether it's cross-platform solutions with **React Native**, or  Android apps with **Kotlin** or **Java**, I bring an eye for clean architecture and a knack for problem-solving.
 
 ---
 
-### About
+## 🚀 **Projects**  
+### 📱 **Mobile Applications**  
+- **Ootlah App**                                                                                       
+  A travel and booking platform allowing users to explore and book experiences seamlessly.  
+  Key Features: User authentication, wishlist management, booking system, real-time search, third-party API integrations.                                                                                           
+  Technologies: `React Native`, `TypeScript`, `Redux`, `React Navigation`, `Axios`, `NativeWind`.
 
-React Native engineer building and shipping **production mobile apps** across white-label SaaS, travel commerce, marketplaces, and multi-role systems — with strong focus on **Arabic/English RTL**, payments, realtime messaging, push notifications, and analytics for **MENA** markets.
+- **Makeen Eg**                                                                                        
+  ▪ Contributed to Makeen EG, a multi-vendor e-commerce application.                                                                                                    
+  ▪ Developed the categories screen, improving user navigation and accessibility.                                                                                                    
+  ▪ Enhanced the home screen UI/UX for a better shopping experience.                                                                                                    
+  ▪ Implemented the search function, enabling users to find products efficiently.                                                                                                    
+  ▪ Developed the orders function, allowing seamless order tracking and management.                                                                                                    
+  ▪ Improved login and signup functionality, ensuring a smoother authentication process.                                                                                                    
+  ▪ Resolved bugs and fixed critical errors, making the app more stable and fully functional.                                                                                         
+  Technologies: `React Native`, `TypeScript`, `Redux`, `React Navigation`, `Axios`, `NativeWind`.
+  
+- **Elsaka Electric E-Commerce App** [GitHub](https://github.com/AhmedSamirElsaka/Elsaka-Electric-React-Native)  
+  Developed an **e-commerce mobile app** to sell electrical products. Integrated **Redux**, **NativeWind**, and **Appwrite** for smooth shopping experiences and user authentication.  
+  Technologies: `React Native`, `TypeScript`, `Redux`, `Stripe`, `Lottie`
 
-I care about clean architecture, TypeScript, resilient client/server state, and release quality on both iOS and Android.
+- **Aora Video-Sharing App** [GitHub](https://github.com/AhmedSamirElsaka/Aora-React-Native)  
+  A real-time video-sharing mobile app using **Appwrite** for backend services with animations and user uploads.  
+  Technologies: `React Native`, `Expo`, `Lottie`, `Appwrite`
 
-**Currently:** React Native Developer at **[Milango](https://github.com/AhmedSamirElsaka)** (proptech SaaS · 100K+ users across organizations).
+- **Uber Clone** [GitHub](https://github.com/AhmedSamirElsaka/Uber-Clone-React-Native)  
+  A transportation app mimicking **Uber's** core functionalities with **map integration** and **Google APIs**.  
+  Technologies: `React Native`, `Google Places`, `Redux`, `Maps`
 
----
+- **Deliveroo Clone** [GitHub](https://github.com/AhmedSamirElsaka/Deliveroo-Clone)  
+  A **food delivery app clone** that allows users to browse restaurants and track orders.  
+  Technologies: `React Native`, `Google Direction API`, `Redux`, `Lottie`, `Maps`
 
-### Experience
+- **To-Do List App** [GitHub](https://github.com/AhmedSamirElsaka/Todo-List-Project-React-Native)  
+  A **task management app** with advanced features like data persistence and state management.  
+  Technologies: `React Native`, `Redux`, `Realm`, `Axios`, `TypeScript`
 
-**React Native Developer — Milango** · Jan 2026 – Present · Cairo  
-White-label community apps for real estate developers, property managers, and sports clubs (SODIC, City Edge, Wadi Degla, Smart Village, and more).
+- **TalkBook (PDF Reader + TTS)** [GitHub](https://github.com/AhmedSamirElsaka/TalkBook)  
+  An Android app that converts **PDFs to audio** using **text-to-speech** technology, with secure user authentication.  
+  Technologies: `Kotlin`, `MVVM`, `Retrofit`, `Room`, `TTS`
 
-- Multi-tenant mobile experiences with isolated branding and feature sets  
-- Nx monorepo consolidation into shared feature modules (auth, payments, access gate, subscriptions, tickets, events, rentals, complaints)  
-- REST APIs + Redux / Redux Persist / MMKV / Firebase / Sentry for performance and release quality  
+- **Music Player** [GitHub](https://github.com/AhmedSamirElsaka/Music-Player)  
+  A local **music player app** with audio playback, playlist creation, and media management.  
+  Technologies: `Kotlin`, `ExoPlayer`, `Coroutines`, `Flow`, `Navigation Component`
 
-**React Native Developer — Smart Touch Advertising** · Oct 2024 – Jan 2026 · Cairo  
-Owned core product work on **Ootlah** (10K+ active users) — discovery, booking, cart, checkout, wishlist, and marketplace flows.
+- **Aflammy (Movies App)** [GitHub](https://github.com/AhmedSamirElsaka/AflammyApp)  
+  An Android app providing a library of movies and TV shows using **TMDB API**.  
+  Technologies: `Kotlin`, `Retrofit`, `Room`, `MVVM`, `Coroutines`
 
-- Bilingual AR/EN RTL + multi-currency commerce (SAR, AED, KWD, BHD, QAR, OMR, EUR, USD, EGP)  
-- Apple / Google Sign-In, FCM + Notifee, Firebase Analytics / Crashlytics, WebEngage, Kochava  
-- Redux Toolkit + TanStack Query + MMKV caching; Fastlane release automation  
+- **Mohtadon (Islamic App)** [GitHub](https://github.com/mohtadon-team/mohtadon)  
+  A comprehensive Islamic app offering Quran reading, prayer times, Islamic radio, and more.  
+  Technologies: `Kotlin`, `Coroutines`, `Retrofit`, `Room`, `MVVM`, `ExoPlayer`
 
----
+- **News App** [GitHub](https://github.com/AhmedSamirElsaka/News-App-MVI-Android)  
+  A **news app** built using **Jetpack Compose** that allows users to browse articles from various categories and countries.  
+  Technologies: `Kotlin`, `Jetpack Compose`, `MVI`, `Retrofit`, `Coroutines`
 
-### Featured work
+- **Number Guessing Game** [GitHub](https://github.com/AhmedSamirElsaka/React-Native-simple-game)  
+  A React Native interactive game where players guess a number, featuring **multi-screen navigation** and efficient state management.  
+  Technologies: `React Native`, `JavaScript`, `Redux`
 
-| Project | What it is | Stack highlights |
-| --- | --- | --- |
-| **[Ledgr](https://github.com/AhmedSamirElsaka/Ledgr)** | Offline-first personal expense tracker — SQLite, SMS import, EN/AR RTL | React Native CLI, TypeScript, Zustand, op-sqlite, Jest |
-| **Ootlah** · [Play](https://play.google.com/store/apps/details?id=com.ootlah.travel) · [App Store](https://apps.apple.com/app/ootlah/id1603072082) | MENA travel & experiences booking platform | RN, TS, RTK, TanStack Query, i18next, Firebase, Fastlane |
-| **Haraj Alfrej** | Live auction marketplace for vehicles & heavy equipment (KSA) | RN, TS, RTK, TanStack Query, Telr, AR/EN RTL |
-| **Inbajasat** (Client + Chef) | Dual marketplace for custom food orders with bidding & payments | RN CLI, HyperPay, Socket.IO, Maps, FCM, Zustand/RTK |
-| **Nutivate** | Multi-role coaching app (Admin / Coach / Client) | Expo, RTK, TanStack Query, role-based navigation |
-| **UpCard** | Digital catalog for game top-ups & prepaid credits | RN, RTK, TanStack Query, i18next RTL |
-| **Makeen EG** | Multi-vendor e-commerce — categories, search, orders, auth polish | React Native, TypeScript |
+- **Meals App** [GitHub](https://github.com/AhmedSamirElsaka/Meals-App-Using-Redux)  
+  An app displaying a list of meals, allowing users to filter, view details, and save favorites.  
+  Technologies: `React Native`, `Redux`, `Local Storage`
 
-<details>
-<summary>Earlier / learning projects</summary>
+- **Expense Tracker App** [GitHub](https://github.com/AhmedSamirElsaka/Expenses-App-Using-Firebase)  
+  A personal expense tracker app where users can manage expenses over time.  
+  Technologies: `React Native`, `Context API`, `Firebase`, `Axios`
 
-- [Elsaka Electric](https://github.com/AhmedSamirElsaka/Elsaka-Electric-React-Native) · e-commerce  
-- [Aora](https://github.com/AhmedSamirElsaka/Aora-React-Native) · video sharing (Appwrite)  
-- [Uber Clone](https://github.com/AhmedSamirElsaka/Uber-Clone-React-Native) · maps & places  
-- [Deliveroo Clone](https://github.com/AhmedSamirElsaka/Deliveroo-Clone) · food delivery UI  
-- Native Android: [TalkBook](https://github.com/AhmedSamirElsaka/TalkBook), [Music Player](https://github.com/AhmedSamirElsaka/Music-Player), [Aflammy](https://github.com/AhmedSamirElsaka/AflammyApp), [News (Compose/MVI)](https://github.com/AhmedSamirElsaka/News-App-MVI-Android)
-
-</details>
-
----
-
-### Skills
-
-**Languages:** TypeScript · JavaScript · Kotlin · Java  
-
-**Mobile:** React Native (CLI & Expo) · React Navigation · Native Modules · Jetpack Compose (familiar)  
-
-**State & data:** Redux Toolkit · TanStack Query · Zustand · Axios · MMKV · AsyncStorage  
-
-**Platform:** Firebase (Auth, FCM, Analytics, Crashlytics) · Sentry · Notifee · Biometrics · Deep linking  
-
-**Payments & maps:** HyperPay · Telr · Stripe (familiar) · Google Maps · WebView checkout  
-
-**i18n:** i18next · Arabic / English RTL  
-
-**Tooling:** Git · Android Studio · Xcode · Fastlane · Nx · Jest · ESLint · Prettier  
-
-<p align="center">
-  <img alt="Skills" src="https://skillicons.dev/icons?i=ts,js,react,androidstudio,kotlin,java,redux,firebase,sqlite,jest,git,github,figma,postman,vscode" />
-</p>
 
 ---
 
-### Education & volunteering
-
-**B.Sc. Systems and Computers Engineering** — Al-Azhar University, Cairo · 2019 – 2024  
-
-- **Head of Java Committee**, GDSC Al-Azhar · led ~20 members, beginner Java course  
-- Technical roles at Az-SENCS (Android / Java mentoring)
-
-**Languages:** Arabic (native) · English (B1)
-
----
-
-### GitHub
-
-*Private production repos don’t show in language charts — most shipping work is closed-source.*
-
-[![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedSamirElsaka&theme=transparent&show_icons=true&hide_border=true)](https://github.com/AhmedSamirElsaka)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSamirElsaka&layout=compact&theme=transparent&hide_border=true)](https://github.com/AhmedSamirElsaka)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AhmedSamirElsaka&theme=transparent&hide_border=true)](https://github.com/AhmedSamirElsaka)
+## 🛠️ **Technical Skills**
+- **Languages**: Java, Kotlin, JavaScript, TypeScript, HTML, CSS  
+- **Mobile Frameworks**: React Native, Android SDK, Jetpack Compose, Expo  
+- **Libraries & Tools**: Dagger Hilt, Redux, Room Database, Retrofit, Firebase, Stripe, Appwrite  
+- **Architectures**: MVVM, Clean Architecture, SOLID Principles  
+- **Dev Tools**: Git, GitHub, Android Studio, Firebase, VS Code, Tailwind CSS, Bootstrap 
+- **Other**: REST APIs, OOP, Data Structures, Algorithms, Design Patterns, JSON
 
 ---
 
-### Contact
+---
 
+## 💻 Languages and Tools:
+![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,appwrite,cpp,clion,discord,eclipse,figma,firebase,git,github,java,jest,kotlin,notion,postman,pycharm,redux,regex,sqlite,tailwind,ts,vscode,bootstrap,php,wordpress,react)
+
+---
+
+## 🧠 **Soft Skills**
+- **Problem-Solving**: Excellent at breaking down complex problems and creating scalable solutions.  
+- **Teamwork**: Proven experience working in cross-functional teams, mentoring junior developers.  
+- **Innovation**: Always exploring new tools and techniques to stay ahead in software development.  
+- **Time Management**: Skilled at juggling multiple projects and meeting deadlines in fast-paced environments.  
+- **Communication**: Adept at conveying technical insights clearly to diverse audiences.  
+- **Continuous Learning**: I thrive in environments where I can keep learning and pushing the boundaries.
+
+---
+
+## 📊 **GitHub Stats**
+
+*NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!*
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AhmedSamirElsaka&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedSamirElsaka&theme=dark&show_icons=true)](https://github.com/AhmedSamirElsaka)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AhmedSamirElsaka&theme=dark)](https://github.com/AhmedSamirElsaka)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSamirElsaka&layout=compact&theme=dark)](https://github.com/AhmedSamirElsaka)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AhmedSamirElsaka&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## 🌐 **Social Links**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedsamirelsaka)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/devahmedsamir)
+
+---
+
+## 📬 **Contact**
+Feel free to reach out at:  
 - 📧 [ahmedsamirelsakadev@gmail.com](mailto:ahmedsamirelsakadev@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmedsamirelsaka)  
-- 📄 [Resume (PDF)](https://drive.google.com/file/d/1MFLeuKgWMNDdJPI6bEjca4ejs0OmgEbs/view?usp=sharing)  
-- 📍 Cairo, Egypt · Open to React Native roles and collaborations  
+- 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1MFLeuKgWMNDdJPI6bEjca4ejs0OmgEbs/view?usp=sharing)  
 
 ---
-
-<p align="center"><i>Building mobile products people actually use — especially across the MENA region.</i></p>
